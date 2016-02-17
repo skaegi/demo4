@@ -136,9 +136,6 @@ deploy:
     dev-region: "ibm:yp:us-south"
     qa-region: "ibm:yp:us-south"
     prod-region: "ibm:yp:us-south"
-    dev-organization: "{{organization}}"
-    qa-organization: "{{organization}}"
-    prod-organization: "{{organization}}"
     dev-space: dev
     qa-space: qa
     prod-space: prod
